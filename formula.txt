@@ -1,0 +1,14 @@
+for hour hand:
+12 hrs - 360 degrees
+1 hr - 30 degrees
+but cuz of minute hand: 60 mins - 30 degrees
+so for 1 minute hour hand moves by 0.5 degrees
+therefore for h hrs and m mins, hour hand from 12 will move by (h*30)+(m*0.5) degrees
+
+for minute hand:
+60mins - 360 degrees
+so m mins - 6m degrees
+
+for seconds hand : 
+60 sec - 360 degrees
+so s sec - 6s degrees
